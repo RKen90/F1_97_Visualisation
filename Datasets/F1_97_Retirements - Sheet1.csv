@@ -1,0 +1,171 @@
+Race Name,Driver,Constructor,Engine,Laps,Reason
+Australia,Rubens Barrichello,Stewart,Fod,49,Engine
+Australia,Mika Salo,Tyrrell,Ford,42,Engine
+Australia,Jan Magnussen,Stewart,Ford,36,Suspension
+Australia,Jean Alesi,Benetton,Renault,34,Out of Fuel
+Australia,Ukyo Katayama,Minardi,Hart,32,Electrical
+Australia,Giancarlo Fisichella,Jorgan,Peugeot,14,Spun Off
+Australia,Jos Verstappen,Tyrrell,Ford,2,Spun Off
+Australia,Ralf Schumacher,Jorgan,Peugeot,1,Gearbox
+Australia,Jacques Villeneuve,Williams,Renault,0,Collision
+Australia,Eddie Irvine,Ferrari,Ferrari,0,Collision
+Australia,Johnny Herbert,Sauber,Ferrari,0,Collision
+Australia,Damon Hill,Arrows,Yamaha,0,Throttle
+Brazil,Damon Hill,Arrows,Yamaha,68,Engine
+Brazil,Ukyo Katayama,Minardi,Hart,67,Unclassified
+Brazil,Ralf Schumacher,Jorgan,Peugeot,52,Electrical
+Brazil,Rubens Barrichello,Stewart,Ford,16,Suspension
+Brazil,Pedro Diniz,Arrows,Yamaha,15,Suspension
+Brazil,Jan Magnussen,Stewart,Ford,0,Collision
+Argentina,Jan Magnussen,Stewart,Ford,66,Engine
+Argentina,Nicola Larini,Sauber,Ferrari,63,Spun off
+Argentina,Pedro Diniz,Arrows,Yamaha,50,Engine
+Argentina,Shinji Nakano,Prost,Mugen-Honda,49,Engine
+Argentina,Jos Verstappen,Tyrrell,Ford,43,Engine
+Argentina,Ukyo Katayama,Minardi,Hart,37,Spun off
+Argentina,Damon Hill,Arrows,Yamaha,33,Engine
+Argentina,Giancarlo Fisichella,Jorgan,Peugeot,24,Collision
+Argentina,Rubens Barrichello,Stewart,Ford,24,Hydraulics
+Argentina,Olivier Panis,Prost,Mugen-Honda,18,Electrical
+Argentina,Heinz-Harald Frentzen,Williams,Renault,5,Clutch
+Argentina,Michael Schumacher,Ferrari,Ferrari,0,Collision
+Argentina,David Coulthard,Mclaren,Mercedes,0,Collision
+San Marino,Pedro Diniz,Arrows,Yamaha,53,Gearbox
+San Marino,Jacques Villeneuve,Williams,Renault,40,Gearbox
+San Marino,David Coulthard,Mclaren,Mercedes,38,Engine
+San Marino,Rubens Barrichello,Stewart,Ford,32,Engine
+San Marino,Johnny Herbert,Sauber,Ferrari,18,Electrical
+San Marino,Ralf Schumacher,Jorgan,Peugeot,17,Transmission
+San Marino,Shinji Nakano,Prost,Mugen-Honda,11,Collision
+San Marino,Damon Hill,Arrows,Yamaha,11,Collision
+San Marino,Gerhard Berger,Benetton,Renault,4,Spun off
+San Marino,Jan Magnussen,Stewart,Ford,2,Spun off
+San Marino,Jarno Trulli,Minardi,Hart,0,Gearbox
+Monaco,Heinz-Harald Frentzen,Williams,Renault,39,Accident
+Monaco,Shinji Nakano,Prost,Mugen-Honda,36,Accident
+Monaco,Nicola Larini,Sauber,Ferrari,24,Accident
+Monaco,Jean Alesi,Benetton,Renault,16,Spun off
+Monaco,Jacques Villeneuve,Williams,Renault,16,Accident damage
+Monaco,Ralf Schumacher,Jorgan,Peugeot,10,Accident
+Monaco,Johnny Herbert,Sauber,Ferrari,9,Accident
+Monaco,Jarno Trulli,Minardi,Hart,7,Accident
+Monaco,David Coulthard,Mclaren,Mercedes,1,Accident
+Monaco,Mika Häkkinen,Mclaren,Mercedes,1,Collision
+Monaco,Damon Hill,Arrows,Yamaha,1,Collision
+Monaco,Pedro Diniz,Arrows,Yamaha,0,Spun off
+Spain,Pedro Diniz,Arrows,Yamaha,53,Engine
+Spain,Ralf Schumacher,Jorgan,Peugeot,50,Engine
+Spain,Rubens Barrichello,Stewart,Ford,37,Engine
+Spain,Mika Salo,Tyrrell,Ford,35,Puncture
+Spain,Shinji Nakano,Prost,Mugen-Honda,34,Gearbox
+Spain,Damon Hill,Arrows,Yamaha,17,Engine
+Spain,Ukyo Katayama,Minardi,Hart,11,Gearbox
+Canada,Olivier Panis,Prost,Mugen-Honda,51,Accident
+Canada,Mika Salo,Tyrrell,Ford,46,Engine
+Canada,Jos Verstappen,Tyrrell,Ford,42,Gearbox
+Canada,Alexander Wurz,Benetton,Renault,35,Transmission
+Canada,Rubens Barrichello,Stewart,Ford,33,Gearbox
+Canada,Jarno Trulli,Minardi,Hart,32,Engine
+Canada,Ralf Schumacher,Jorgan,Peugeot,14,Accident
+Canada,Ukyo Katayama,Minardi,Hart,5,Throttle
+Canada,Jacques Villeneuve,Williams,Renault,1,Accident
+Canada,Mika Häkkinen,Mclaren,Mercedes,0,Collision
+Canada,Eddie Irvine,Ferrari,Ferrari,0,Collision
+Canada,Jan Magnussen,Stewart,Ford,0,Accident
+France,Mika Salo,Tyrrell,Ford,61,Electrical
+France,Alexander Wurz,Benetton,Renault,60,Spun off
+France,Pedro Diniz,Arrows,Yamaha,58,Spun off
+France,Norberto Fontana,Sauber,Ferrari,40,Spun off
+France,Rubens Barrichello,Stewart,Ford,36,Engine
+France,Jan Magnussen,Stewart,Ford,33,Brakes
+France,Mika Häkkinen,Mclaren,Mercedes,18,Engine
+France,Jos Verstappen,Tyrrell,Ford,15,Spun off
+France,Shinji Nakano,Prost,Mugen-Honda,7,Spun off
+France,Tarso Marques,Minardi,Hart,5,Engine
+Britain,Shinji Nakano,Prost,Mugen-Honda,57,Engine
+Britain,Mika Häkkinen,Mclaren,Mercedes,52,Engine
+Britain,Jan Magnussen,Stewart,Ford,50,Engine
+Britain,Jos Verstappen,Tyrrell,Ford,45,Engine
+Britain,Eddie Irvine,Ferrari,Ferrari,44,Halfshaft
+Britain,Mika Salo,Tyrrell,Ford,44,Engine
+Britain,Johnny Herbert,Sauber,Ferrari,42,Electrical
+Britain,Michael Schumacher,Ferrari,Ferrari,38,Wheel bearing
+Britain,Rubens Barrichello,Stewart,Ford,37,Engine
+Britain,Pedro Diniz,Arrows,Yamaha,29,Engine
+Britain,Heinz-Harald Frentzen,Williams,Renault,0,Collision
+Britain,Ukyo Katayama,Minardi,Hart,0,Accident/spun off
+Germany,Giancarlo Fisichella,Jorgan,Peugeot,40,Radiator
+Germany,Rubens Barrichello,Stewart,Ford,33,Engine
+Germany,Mika Salo,Tyrrell,Ford,33,Clutch
+Germany,Jacques Villeneuve,Williams,Renault,33,Spun off
+Germany,Jan Magnussen,Stewart,Ford,27,Engine
+Germany,Ukyo Katayama,Minardi,Hart,23,Out of fuel
+Germany,Johnny Herbert,Sauber,Ferrari,8,Collision
+Germany,Pedro Diniz,Arrows,Yamaha,8,Collision
+Germany,David Coulthard,Mclaren,Mercedes,1,Transmission
+Germany,Heinz-Harald Frentzen,Williams,Renault,1,Collision
+Germany,Eddie Irvine,Ferrari,Ferrari,1,Collision
+Germany,Tarso Marques,Minardi,Hart,0,Gearbox
+Hungary,David Coulthard,Mclaren,Mercedes,65,Electrical
+Hungary,Jos Verstappen,Tyrrell,Ford,61,Gearbox
+Hungary,Pedro Diniz,Arrows,Yamaha,53,Electrical
+Hungary,Giancarlo Fisichella,Jorgan,Peugeot,42,Spun off
+Hungary,Heinz-Harald Frentzen,Williams,Renault,29,Fuel leak
+Hungary,Rubens Barrichello,Stewart,ford,29,Engine
+Hungary,Mika Häkkinen,Mclaren,Mercedes,12,Hydraulics
+Hungary,Gianni Morbidelli,Sauber,Ferrari,7,Engine
+Hungary,Jan Magnussen,Stewart,Ford,5,Accident
+Belgiun,Eddie Irvine,Ferrari,Ferrari,43,Collision
+Belgiun,Damon Hill,Arrows,Yamaha,42,Wheel nut
+Belgiun,Ukyo Katayama,Minardi,Hart,42,Engine
+Belgiun,Jos Verstappen,Tyrrell,Ford,25,Spun off
+Belgiun,Ralf Schumacher,Jorgan,Peugeot,21,Spun off
+Belgiun,David Coulthard,Mclaren,Mercedes,19,Spun off
+Belgiun,Tarso Marques,Minardi,Hart,18,Spun off
+Belgiun,Rubens Barrichello,Stewart,Ford,8,Steering
+Belgiun,Shinji Nakano,Prost,Mugen-Honda,5,Electrical
+Belgiun,Mika Häkkinen,Mclaren,Mercedes,44,Fuel irregularity (+30.856)
+Italy,Damon Hill,Arrows,Yamaha,46,Engine
+Italy,Ralf Schumacher,Jorgan,Peugeot,39,Collision
+Italy,Johnny Herbert,Sauber,Ferrari,38,Collision
+Italy,Mika Salo,Tyrrell,Ford,33,Engine
+Italy,Jan Magnussen,Stewart,Ford,31,Transmission
+Italy,Jos Verstappen,Tyrrell,Ford,12,Gearbox
+Italy,Ukyo Katayama,Minardi,Hart,8,Loose wheel
+Italy,Pedro Diniz,Arrows,Yamaha,4,Suspension
+Austria,Pedro Diniz,Arrows,Yamaha,67,Suspension
+Austria,Rubens Barrichello,Stewart,Ford,64,Spun off
+Austria,Jarno Trulli,Prost,Mugen-Honda,58,Engine
+Austria,Jan Magnussen,Stewart,Ford,58,Engine
+Austria,Shinji Nakano,Prost,Mugen-Honda,57,Engine
+Austria,Mika Salo,Tyrrell,Ford,48,Gearbox
+Austria,Eddie Irvine,Ferrari,Ferrari,38,Collision damage
+Austria,Jean Alesi,Benetton,Renault,37,Collision
+Austria,Mika Häkkinen,Mclaren,Mercedes,1,Engine
+Austria,Tarso Marques,Minardi,Hart,,Excluded
+Luxembourg,Jos Verstappen,Tyrrell,Ford,50,Spun off
+Luxembourg,Mika Häkkinen,Mclaren,Mercedes,43,Engine
+Luxembourg,Rubens Barrichello,Stewart,Ford,43,Gearbox
+Luxembourg,David Coulthard,Mclaren,Mercedes,42,Engine
+Luxembourg,Jan Magnussen,Stewart,Ford,40,Halfshaft
+Luxembourg,Eddie Irvine,Ferrari,Ferrari,22,Engine
+Luxembourg,Shinji Nakano,Prost,Mugen-Honda,16,Engine
+Luxembourg,Michael Schumacher,Ferrari,Ferrari,2,Suspension/collision damage
+Luxembourg,Tarso Marques,Minardi,Hart,1,Engine
+Luxembourg,Ukyo Katayama,Minardi,Hart,1,Collision
+Luxembourg,Giancarlo Fisichella,Jorgan,Peugeot,0,Collision
+Luxembourg,Ralf Schumacher,Jorgan,Peugeot,0,Collision
+Japan,Tarso Marques,Minardi,Hart,46,Gearbox
+Japan,Mika Salo,Tyrrell,Ford,46,Engine
+Japan,Olivier Panis,Prost,Mugen-Honda,36,Engine
+Japan,Shinji Nakano,Prost,Mugen-Honda,22,Wheel bearing
+Japan,Ukyo Katayama,Minardi,Hart,8,Engine
+Japan,Rubens Barrichello,Stewart,Ford,6,Spun off
+Japan,Jan Magnussen,Stewart,Ford,3,Spun off
+Japan,Jacques Villeneuve,Williams,Renault,53,Ignored yellow flags during practice
+Japan,Gianni Morbidelli,Sauber,Ferrari,0,Injury
+European,Michael Schumacher,Ferrari,Ferrari,47,Collision
+European,Damon Hill,Arrows,Yamaha,47,Gearbox
+European,Ralf Schumacher,Jorgan,Peugeot,44,Water leak
+European,Rubens Barrichello,Stewart,Ford,30,Gearbox
+European,Pedro Diniz,Arrows,Yamaha,11,Spun off
